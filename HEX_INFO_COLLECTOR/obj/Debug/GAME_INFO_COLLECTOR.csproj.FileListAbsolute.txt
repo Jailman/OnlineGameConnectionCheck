@@ -1,0 +1,20 @@
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.exe.config
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.exe
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.pdb
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.Form1.resources
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.exe
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.pdb
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.csprojResolveAssemblyReference.cache
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.exe.config
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.exe
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.pdb
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.exe
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.pdb
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.csprojResolveAssemblyReference.cache
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.Form1.resources
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.Properties.Resources.resources
+F:\VisualStudioProject\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OnlineGameConnectionCheck\HEX_INFO_COLLECTOR\bin\Debug\GAME_INFO_COLLECTOR.exe.config
+C:\Users\Administrator\Desktop\OnlineGameConnectionCheck\HEX_INFO_COLLECTOR\obj\Debug\GAME_INFO_COLLECTOR.pdb

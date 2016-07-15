@@ -1,0 +1,10 @@
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\HEX_INFO_COLLECTOR.exe.config
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\HEX_INFO_COLLECTOR.exe
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\HEX_INFO_COLLECTOR.pdb
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.csprojResolveAssemblyReference.cache
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.Form1.resources
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.Properties.Resources.resources
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.csproj.GenerateResource.Cache
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.exe
+d:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\obj\Debug\HEX_INFO_COLLECTOR.pdb
+D:\Visual Studio 2013\Projects\HEX_INFO_COLLECTOR\HEX_INFO_COLLECTOR\bin\Debug\Game_INFO_COLLECTOR.exe.config
